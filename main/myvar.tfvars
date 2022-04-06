@@ -1,0 +1,5 @@
+my_vpc_id = "vpc-02ddf6d23fad091b5"
+my_ami = "ami-04505e74c0741db8d"
+my_instance_type = "t2.micro"
+my_public_subnet_id = "subnet-0f5789f91fd5af4bd"
+my_pub_key = "mykey-ubuntu"

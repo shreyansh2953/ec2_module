@@ -1,0 +1,7 @@
+myk*
+main/planfile
+main/.terraform
+main/terraform.tfstate
+main/terraform.tfstate.backup
+main/.terraform.lock.hcl
+
